@@ -1,6 +1,9 @@
 # HamsterCMS Kitty HTML4 theme
+
 https://github.com/turboblack/HamsterCMS
+
 This template is special in that the graphics are maximally packed to speed up work on weak PCs and slow connections, the template weighs 16kb
+
 The template works great on old browsers from the late 90s, such as IE5
 
 The code is simple and clear
