@@ -4,7 +4,8 @@ https://github.com/turboblack/HamsterCMS
 
 This template is special in that the graphics are maximally packed to speed up work on weak PCs and slow connections, the template weighs 16kb
 
-The template works great on old browsers from the late 90s, such as IE5
+the template is backward compatible with all browsers since the late 90s 
+Works equally well with Internet Explorer 5 and modern browsers
 
 The code is simple and clear
 The template is perfect for learning HTML and maintaining a home page
